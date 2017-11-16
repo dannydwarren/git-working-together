@@ -7,3 +7,5 @@ A change while changes are staged.
 A thrid change!
 
 Changing code in compare
+
+Something else
